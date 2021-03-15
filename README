@@ -1,2 +1,19 @@
 # Automatic_door
 this folder contains files related to "automatic door" project
+
+
+
+Connections
+
+PIR
+VCC -to- Vin
+OUT -to- D5
+GND -to- GND
+
+Servo
+VCC -to- Vin
+OUT -to- D5
+GND -to- GND
+
+Senor type moton sensor
+Energy harvesting technology used- Solar pannel
